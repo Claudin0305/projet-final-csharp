@@ -1,0 +1,13 @@
+Ce projet a ete realiser par le groupe focuslab.
+Ce groupe est constitue de trois personnes qui sont:
+	1- Claudin SAINTIL
+	2- Nakisha LOUIS
+	3- Wesly TOUSSAINT
+Il est soumis a prof Jaures PIERRE. Notre professeur de programmation des
+langages Java et C#
+
+voici le texte de connexion a la base: "server=127.0.0.1;uid=root;" + "pwd=;database=hopital_espoir; SSL Mode=None"
+
+Pour acceder au systeme, vous devez vous authentifier. Il y a 2 comptes sur le systeme:
+	1- Pseudo: Demo		passWord: 1234
+	2- Pseudo: root		password: admin
